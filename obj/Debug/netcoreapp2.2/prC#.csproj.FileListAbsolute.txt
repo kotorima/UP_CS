@@ -1,0 +1,11 @@
+C:\prC#\bin\Debug\netcoreapp2.2\prC#.deps.json
+C:\prC#\bin\Debug\netcoreapp2.2\prC#.runtimeconfig.json
+C:\prC#\bin\Debug\netcoreapp2.2\prC#.runtimeconfig.dev.json
+C:\prC#\bin\Debug\netcoreapp2.2\prC#.dll
+C:\prC#\bin\Debug\netcoreapp2.2\prC#.pdb
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.csprojAssemblyReference.cache
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.csproj.CoreCompileInputs.cache
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.AssemblyInfoInputs.cache
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.AssemblyInfo.cs
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.dll
+C:\prC#\obj\Debug\netcoreapp2.2\prC#.pdb
