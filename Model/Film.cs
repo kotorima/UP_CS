@@ -18,6 +18,7 @@ namespace prC_
 
     public class Film : IComparable<Film>
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public int Year { get; set; }
         public string Prod { get; set; }
